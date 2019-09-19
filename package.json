@@ -1,0 +1,19 @@
+{
+  "name": "parking-lot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaV7/parking-lot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaV7/parking-lot/issues"
+  },
+  "homepage": "https://github.com/AlphaV7/parking-lot#readme"
+}
